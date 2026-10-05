@@ -23,7 +23,8 @@ By the end of this session, you should be able to:
 
 ## Video Lesson
 
-[![Watch Session 3 — Programming Logic and Problem Solving](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://youtu.be/VIDEO_ID)
+[![Watch Session 1 — Introduction to Programming and Python](https://img.youtube.com/vi/gBNoE1JJ4dU/maxresdefault.jpg)](https://youtu.be/gBNoE1JJ4dU)
+
 
 ### PDF Handout
 
