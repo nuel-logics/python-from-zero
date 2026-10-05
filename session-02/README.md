@@ -14,11 +14,9 @@ By the end of this session, you should be able to explain the concepts taught, f
 
 ## Learning Materials
 
-### Video Lesson
+## Video Lesson
 
-Watch the Session 2 video below.
-
-**Video link:** [Watch Session 2 on YouTube](https://youtu.be/jKh4I5MV8q8)
+[![Watch Session 1 — Introduction to Programming and Python](https://img.youtube.com/vi/eQk1fpfYsz0/maxresdefault.jpg)](https://youtu.be/eQk1fpfYsz0)
 
 ### PDF Handout
 
